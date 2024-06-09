@@ -1,0 +1,23 @@
+.odd {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #e343a1;
+}
+
+#second {
+    font-size: 36px;
+    color: #4384E3;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(67, 227, 167);
+    font-size: 24px;
+    font-weight: 700;
+}
+
+**The fourth element**: 
+a light green background, 
+a font size of 24px, and bold
